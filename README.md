@@ -1,4 +1,4 @@
-![SR Photo](https://github.com/sunil-rohra/sunil-rohra/assets/82097719/919e492c-2896-4119-8ba0-24918bd9b0ac)
+
 ### Hi there 👋
 
 <!--
