@@ -1,5 +1,5 @@
  <img src="https://github.com/sunil-rohra/sunil-rohra/assets/82097719/4f65245a-a2e4-4fe1-ba5a-bf5cdaf988a4" width="150px"/> 
- <img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
+ 
 ### Hi there 👋
 
 
