@@ -13,7 +13,7 @@ Enthusiastic Data Analyst eager to contribute to team success through hard work,
   
   Here are some ideas to get you started:
   
-  - 🔭 I’m currently working on ...
+  - 🔭 I’m currently working on various practice problems for Data Analysis and Visulisations.
   - 🌱 I’m currently learning Data Science with HyperionDev.
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for entry level position as a Data Analyst.
